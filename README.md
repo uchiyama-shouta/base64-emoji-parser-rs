@@ -1,0 +1,1 @@
+[base64-emoji-parser](https://github.com/taishinaritomi/base64-emoji-parser)を参考に,Rustのcliとして実装しました。
