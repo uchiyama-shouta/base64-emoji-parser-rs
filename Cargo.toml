@@ -1,6 +1,9 @@
 [package]
 name = "base64-emoji-parser-rs"
 version = "0.1.0"
+authors = ["Shouta"]
+description = "Convert string to emoji cipher. Inspired by base64-emoji-parser"
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
